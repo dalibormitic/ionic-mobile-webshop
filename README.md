@@ -35,8 +35,6 @@ Both users and sellers receive message about successful purchase, with some rele
 <img src="screenshots/0-1.jpg" width="200">
 <img src="screenshots/1.jpg" width="200">
 <img src="screenshots/8.jpg" width="200">
-<img src="screenshots/2-1.jpg" width="200">
-<img src="screenshots/2-2.jpg" width="200">
 <img src="screenshots/3.jpg" width="200">
 <img src="screenshots/4.jpg" width="200">
 <img src="screenshots/9.jpg" width="200">
