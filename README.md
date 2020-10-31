@@ -8,6 +8,7 @@ Simple webshop created using Ionic+React and NodeJS on backend, with MongoDB dat
   * add products to cart
   * see products in cart
   * make purchase
+  
 Both users and sellers receive message about successful purchase, with some relevant details (sellers - purchased products, and info details about buyer, buyer - purchased products)
 
 ## Technologies used
