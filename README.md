@@ -1,4 +1,4 @@
-# Mobile webshop for cakes and cookies created using Ionic
+# Mobile Webshop For Cakes And Cookies - Created Using Ionic
 
 Simple webshop created using Ionic+React and NodeJS on backend, with MongoDB database.
 
